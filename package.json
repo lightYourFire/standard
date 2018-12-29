@@ -30,7 +30,7 @@
     "mkdirp": "^0.5.1",
     "run-parallel-limit": "^1.0.3",
     "standard-packages": "^3.4.0",
-    "tape": "^4.6.0"
+    "tape": "^4.9.2"
   },
   "engines": {
     "node": ">=6"
